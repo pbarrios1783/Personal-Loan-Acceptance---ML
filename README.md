@@ -1,5 +1,5 @@
 # Personal Loan Acceptance Prediction
-## Personal Loan Acceptance Prediction
+
 ### 📌 Overview
 This project analyzes customer data from AllLife Bank to build a predictive model for identifying individuals most likely to accept personal loan offers. By leveraging machine learning, this project aims to optimize marketing strategies and enhance customer targeting efficiency.
 
